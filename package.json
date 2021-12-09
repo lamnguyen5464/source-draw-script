@@ -1,0 +1,16 @@
+{
+  "name": "source-draw",
+  "version": "1.0.2",
+  "description": "Script for draw all the source code to terminal",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "start": "node index.js",
+    "up": "npm publish --access public"
+  },
+  "bin": {
+    "start": "node index.js"
+  },
+  "author": "lamnguyen5464@gmail.com",
+  "license": "ISC"
+}
